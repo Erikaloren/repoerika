@@ -1,18 +1,13 @@
-# repoerika
-## subtitulo de nivel 2
+# KONSCIO
 
-Esta es la **negrita**
-
-Lista. Se puede con los asteriscos como:
-
-* HTML
-* CSS
-* JavaScript
-
-También se puede con guiones o números
-
-Para la línea horizontal son 3 guiones
+### DESCRIPCION DEL PROYECTO
 
 ---
 
-esta es la *cursiva*
+Konscio busca realizar turismo consciente con el fin de enfocarse en el bienestar de las **personas** y del *medio ambiente*
+
+---
+
+**Autor**
+
+Erika González *(2016)*
