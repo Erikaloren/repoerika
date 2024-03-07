@@ -1,13 +1,17 @@
-# KONSCIO
+# Aprendiendo Markdown
+## Título 2
+### Título 3 (and so on)
 
-### DESCRIPCION DEL PROYECTO
-
----
-
-Konscio busca realizar turismo consciente con el fin de enfocarse en el bienestar de las **personas** y del *medio ambiente*
+Las líneas se hacen con tres guiones así:
 
 ---
 
-**Autor**
+Las listas se hacen usando 
 
-Erika González *(2016)*
+* Asteríscos
+* números
+* guiones
+
+Esta es la **negrita**
+
+Esta es la *cursiva*
