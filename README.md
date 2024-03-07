@@ -5,9 +5,9 @@ Esta es la **negrita**
 
 Lista. Se puede con los asteriscos como:
 
-*HTML
-*CSS
-*JavaScript
+* HTML
+* CSS
+* JavaScript
 
 También se puede con guiones o números
 
