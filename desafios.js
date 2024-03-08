@@ -6,11 +6,12 @@
 
 
 const nombreUsuario = prompt ('ingrese su nombre')
+
 switch (nombreUsuario) {
     case (nombreUsuario):
-        console.log ("Hola" + nombreUsuario)
+        console.log("Hola" + nombreUsuario)
         break;
     default ("")
-    console.log ("Hola")
+    console.log("Hola")
     break;
 }
