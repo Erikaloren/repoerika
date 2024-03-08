@@ -11,7 +11,7 @@ switch (nombreUsuario) {
     case (nombreUsuario):
         console.log("Hola" + nombreUsuario)
         break;
-    default ("")
+    default (" ")
     console.log("Hola")
     break;
 }
