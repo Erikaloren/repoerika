@@ -25,7 +25,7 @@ const numeroUser1 = prompt('ingrese un número')
 console.log(numeroUser1)
 
 document.write(numeroUser + numeroUser1)
-document.write(String(numeroUser) + String(numeroUser1))
+document.write(Parseint(numeroUser) + Parseint(numeroUser1))
 
 //TERMINAR DESAFIO
 
