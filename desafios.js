@@ -24,8 +24,8 @@ console.log(numeroUser)
 const numeroUser1 = prompt('ingrese un número')
 console.log(numeroUser1)
 
-numeroUser= ParseInt(numeroUser); 
-numeroUser1= ParseInt(numeroUser1);
+numeroUser= Number(numeroUser); 
+numeroUser1= Number(numeroUser1);
 
 resultado= numeroUser + numeroUser1;
 
