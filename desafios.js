@@ -5,13 +5,25 @@
 //document.write('hola')
 
 
-const nombreUsuario = prompt ('ingrese su nombre')
+const nombreUsuario = prompt('ingrese su nombre')
+console.log(nombreUsuario) //siempre se pone esto?
 
 switch (nombreUsuario) {
-    case (nombreUsuario):
-        console.log("Hola" + nombreUsuario)
+    case (" "):
+        document.write("Hola"); //será mejor con document.write?
         break;
-    default (" ")
-    console.log("Hola")
-    break;
+    default:
+        document.write("Hola" + nombreUsuario);
+        break;
 }
+
+
+/*const numerosUser = prompt('ingrese un número')
+console.log(numerosUser)
+
+const numeroUser1 = prompt('ingrese un número')
+console.log(numeroUser1)
+
+TERMINAR DESAFIO*/
+
+
