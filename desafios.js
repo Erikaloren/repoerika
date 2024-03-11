@@ -18,6 +18,9 @@ switch (nombreUsuario) {
 }
 */
 
+//LISTOOOOO JUJUJUJU
+
+/*
 let numeroUser = prompt('ingrese un número')
 console.log(numeroUser)
 
@@ -29,9 +32,8 @@ numeroUser1=Number(numeroUser1)
 
 document.write(numeroUser + numeroUser1);
 
+//DESAFÍO COMPLETADO MUAHAHHAHAHA
 
-
-//TERMINAR DESAFIO*/
 
 
 
