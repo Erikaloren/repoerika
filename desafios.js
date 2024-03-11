@@ -24,13 +24,17 @@ console.log(numeroUser)
 const numeroUser1 = prompt('ingrese un número')
 console.log(numeroUser1)
 
-numeroUser= Parseint(numeroUser);
-numeroUser1= Parseint(numeroUser1);
+numeroUser= ParseInt(numeroUser); 
+numeroUser1= ParseInt(numeroUser1);
 
-resultado=(numeroUser + numeroUser1);
+resultado= numeroUser + numeroUser1;
 
 document.write(resultado)
 
-//TERMINAR DESAFIO
+//TERMINAR DESAFIO*/
+
+
+
+
 
 
