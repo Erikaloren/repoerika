@@ -6,11 +6,11 @@
 
 /*
 const nombreUsuario = prompt('ingrese su nombre')
-console.log(nombreUsuario) //siempre se pone esto?
+console.log(nombreUsuario) 
 
 switch (nombreUsuario) {
     case (" "):
-        document.write("Hola"); //será mejor con document.write?
+        document.write("Hola"); 
         break;
     default:
         document.write("Hola " + nombreUsuario);
@@ -33,6 +33,18 @@ numeroUser1=Number(numeroUser1)
 document.write(numeroUser + numeroUser1);
 
 //DESAFÍO COMPLETADO MUAHAHHAHAHA
+
+--> Falta hacer un programa que pida nombre y apellido y de el nombre completo
+
+*/
+
+let solonombre = prompt ("ingrese su nombre")
+console.log (solonombre)
+
+let soloapellido = prompt ("ingrese su apellido")
+console.log (soloapellido)
+
+document.write(solonombre + " " + soloapellido)
 
 
 
