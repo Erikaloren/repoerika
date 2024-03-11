@@ -26,7 +26,8 @@ console.log(numeroUser1)
 
 document.write(numeroUser + numeroUser1)
 document.write(Parseint(numeroUser) + Parseint(numeroUser1))
-
+resultado (numeroUser + numeroUser1)
+S
 //TERMINAR DESAFIO
 
 
