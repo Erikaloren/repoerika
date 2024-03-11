@@ -18,10 +18,10 @@ switch (nombreUsuario) {
 }
 */
 
-const numeroUser = prompt('ingrese un número')
+let numeroUser = prompt('ingrese un número')
 console.log(numeroUser)
 
-const numeroUser1 = prompt('ingrese un número')
+let numeroUser1 = prompt('ingrese un número')
 console.log(numeroUser1)
 
 numeroUser=Number(numeroUser)
