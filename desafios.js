@@ -36,14 +36,12 @@ document.write(numeroUser + numeroUser1);
 
 //Otra forma que se puede usar:
 
-
-
-*/
-
 const numeroUno = Number(prompt("ingrese un número"))
 const numeroDos = parseInt(prompt("ingrese otro número"))
 
-document.write(`la suma de ${numeroUno} y ${numeroDos} es ${numeroUno+numeroDos}`);
+document.write(`La suma de ${numeroUno} y ${numeroDos} es ${numeroUno+numeroDos}`);
+
+*/
 
 /*
 //--> Falta hacer un programa que pida nombre y apellido y dé el nombre completo
@@ -63,7 +61,33 @@ document.write(`${solonombre} ${soloapellido}`)
 //Soy una dura JUEPUTAAAA 
 */
 
+//DESAFIO DE HOY <-- Hacer un programa que reciba del usuario un número y muestre si es 0 o si es positivo o si es negativo.
 
+let numeroSecreto = prompt ("ingrese cualquier número");
+console.log(numeroSecreto)
+
+switch(numeroSecreto) {
+    case 1 (""):
+     document.write("No hay número");
+      break;
+    case 2 ("0"):
+     document.write("el número ingresado es 0");
+      break;
+    case 3 (numeroSecreto=<"1"):
+     document.write("el número ingresado es positivo");
+      break;
+    default (numeroSecreto > "0");
+    break;
+}
+
+
+/*switch (nombreUsuario) {
+    case (" "):
+        document.write("Hola"); 
+        break;
+    default:
+        document.write("Hola " + nombreUsuario);
+        break;
 
 
 
