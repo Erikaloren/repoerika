@@ -82,6 +82,8 @@ switch(numeroSecreto) {
 
 // Otra opción
 
+/*
+
 let numeroSorpresa = Number(prompt ('ingrese cualquier número'))
 console.log (numeroSorpresa)
 
@@ -93,14 +95,24 @@ if (numeroSorpresa == 0){
         document.write('el número ingresado es negativo');
     }
   
+Hacer un prigrama que reciba del usuario dos números y muestre cuál es el número mayor y cuál es el número menor
 
-/*switch (nombreUsuario) {
-    case (" "):
-        document.write("Hola"); 
-        break;
-    default:
-        document.write("Hola " + nombreUsuario);
-        break;
+*/
+
+let tipodeNumero = Number(prompt('ingrese un número'))
+console.log (tipodeNumero)
+
+let tipodeNumero1 = Number(prompt('ingrese un número'))
+console.log (tipodeNumero1)
+
+if (tipodeNumero < tipodeNumero1) {
+    document.write(tipodeNumero "es mayor a " tipodeNumero1)
+}
+else (tipodeNumero1 < tipodeNumero){
+    document.write(tipodeNumero1 "es mayor a " tipodeNumero1)
+}
+
+
 
 
 
