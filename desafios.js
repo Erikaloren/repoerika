@@ -34,8 +34,18 @@ document.write(numeroUser + numeroUser1);
 
 //DESAFÍO COMPLETADO MUAHAHHAHAHA
 
+//Otra forma que se puede usar:
+
+
+
 */
 
+const numeroUno = Number(prompt("ingrese un número"))
+const numeroDos = parseInt(prompt("ingrese otro número"))
+
+document.write(`la suma de ${numeroUno} y ${numeroDos} es ${numeroUno+numeroDos}`);
+
+/*
 //--> Falta hacer un programa que pida nombre y apellido y dé el nombre completo
 
 const solonombre = prompt ("ingrese su nombre")
@@ -50,8 +60,10 @@ console.log (soloapellido)
 
 document.write(`${solonombre} ${soloapellido}`)
 
-
 //Soy una dura JUEPUTAAAA 
+*/
+
+
 
 
 
