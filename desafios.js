@@ -95,10 +95,11 @@ if (numeroSorpresa == 0){
         document.write('el número ingresado es negativo');
     }
   
-Hacer un prigrama que reciba del usuario dos números y muestre cuál es el número mayor y cuál es el número menor
+Hacer un programa que reciba del usuario dos números y muestre cuál es el número mayor y cuál es el número menor
 
 */
 
+/*
 let tipodeNumero = Number(prompt('ingrese un número'))
 console.log (tipodeNumero)
 
@@ -110,3 +111,6 @@ if (tipodeNumero > tipodeNumero1) {
 } else {
     document.write('el número mayor es ' + tipodeNumero1);
 }
+
+//DONE MUAHAHAHHAHHAHAHA AAAAAAHAHAHAHHAHA */
+
