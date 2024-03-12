@@ -106,10 +106,10 @@ let tipodeNumero1 = Number(prompt('ingrese un número'))
 console.log (tipodeNumero1)
 
 if (tipodeNumero < tipodeNumero1) {
-    document.write('el número mayor es ' tipodeNumero);
+    document.write('el número mayor es ' + tipodeNumero);
 }
 else (tipodeNumero1 < tipodeNumero){
-    document.write('el número mayor es ' tipodeNumero1);
+    document.write('el número mayor es ' + tipodeNumero1);
 }
 
 
