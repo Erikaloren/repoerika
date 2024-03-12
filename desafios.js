@@ -36,17 +36,20 @@ document.write(numeroUser + numeroUser1);
 
 */
 
-/*
+//--> Falta hacer un programa que pida nombre y apellido y dé el nombre completo
 
---> Falta hacer un programa que pida nombre y apellido y de el nombre completo
-
-let solonombre = prompt ("ingrese su nombre")
+const solonombre = prompt ("ingrese su nombre")
 console.log (solonombre)
 
-let soloapellido = prompt ("ingrese su apellido")
+const soloapellido = prompt ("ingrese su apellido")
 console.log (soloapellido)
 
-document.write(solonombre + " " + soloapellido)
+//document.write(solonombre + " " + soloapellido)
+
+//Interpolación de variables
+
+document.write(`${solonombre} ${soloapellido}`)
+
 
 //Soy una dura JUEPUTAAAA 
 
