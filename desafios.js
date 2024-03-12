@@ -107,7 +107,7 @@ console.log (tipodeNumero1)
 
 if (tipodeNumero < tipodeNumero1) {
     document.write('el número mayor es ' + tipodeNumero);
-} else (tipodeNumero > tipodeNumero1) {
+} else() {
     document.write('el número mayor es ' + tipodeNumero1);
 }
 
