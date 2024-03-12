@@ -63,7 +63,7 @@ document.write(`${solonombre} ${soloapellido}`)
 
 //DESAFIO DE HOY <-- Hacer un programa que reciba del usuario un número y muestre si es 0 o si es positivo o si es negativo.
 
-let numeroSecreto = prompt ("ingrese cualquier número");
+let numeroSecreto = prompt("ingrese cualquier número");
 console.log(numeroSecreto)
 
 switch(numeroSecreto) {
