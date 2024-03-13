@@ -99,12 +99,18 @@ Hacer un programa que reciba del usuario dos números y muestre cuál es el núm
 
 */
 
-/*
+
 let tipodeNumero = Number(prompt('ingrese un número'))
 console.log (tipodeNumero)
 
 let tipodeNumero1 = Number(prompt('ingrese un número'))
 console.log (tipodeNumero1)
+
+if(isNaN (tipodeNumero,tipodeNumero1)){
+    document.write("esto no es un número")
+}
+
+/*
 
 if (tipodeNumero > tipodeNumero1) {
     document.write('el número mayor es ' + tipodeNumero);
