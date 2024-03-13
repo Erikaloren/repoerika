@@ -108,8 +108,13 @@ console.log (tipodeNumero1)
 
 if(isNaN (tipodeNumero,tipodeNumero1)){
     document.write("esto no es un número")
+} else {
+    if (tipodeNumero > tipodeNumero1) {
+        document.write('el número mayor es ' + tipodeNumero);
+    } else {
+        document.write('el número mayor es ' + tipodeNumero1);
+    }
 }
-
 /*
 
 if (tipodeNumero > tipodeNumero1) {
